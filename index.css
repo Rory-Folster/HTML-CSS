@@ -1,1 +1,22 @@
-hihi
+#text-color{
+    color: blueviolet;
+    background-color: green;
+}
+#header{
+    background-color: red;
+    width: 1500px;
+    height: 100px;
+}
+
+.text-color {
+    background-color: blue;
+}
+img{
+    width: 600px;
+    height: 400px;
+    margin-top: 300px;
+    margin-right: 350px;
+    margin-bottom: 300px;
+    margin-left: 300px;
+
+}
